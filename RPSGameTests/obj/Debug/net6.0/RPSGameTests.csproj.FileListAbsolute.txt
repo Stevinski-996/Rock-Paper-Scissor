@@ -1,0 +1,5 @@
+/Users/aaa/Desktop/Rock-Paper-Scissor/RPSGameTests/obj/Debug/net6.0/RPSGameTests.csproj.AssemblyReference.cache
+/Users/aaa/Desktop/Rock-Paper-Scissor/RPSGameTests/obj/Debug/net6.0/RPSGameTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaa/Desktop/Rock-Paper-Scissor/RPSGameTests/obj/Debug/net6.0/RPSGameTests.AssemblyInfoInputs.cache
+/Users/aaa/Desktop/Rock-Paper-Scissor/RPSGameTests/obj/Debug/net6.0/RPSGameTests.AssemblyInfo.cs
+/Users/aaa/Desktop/Rock-Paper-Scissor/RPSGameTests/obj/Debug/net6.0/RPSGameTests.csproj.CoreCompileInputs.cache

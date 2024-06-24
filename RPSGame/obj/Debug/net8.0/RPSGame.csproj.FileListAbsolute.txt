@@ -1,0 +1,14 @@
+/Users/aaa/Desktop/Rock-Paper-Scissor/RPSGame/bin/Debug/net8.0/RPSGame
+/Users/aaa/Desktop/Rock-Paper-Scissor/RPSGame/bin/Debug/net8.0/RPSGame.deps.json
+/Users/aaa/Desktop/Rock-Paper-Scissor/RPSGame/bin/Debug/net8.0/RPSGame.runtimeconfig.json
+/Users/aaa/Desktop/Rock-Paper-Scissor/RPSGame/bin/Debug/net8.0/RPSGame.dll
+/Users/aaa/Desktop/Rock-Paper-Scissor/RPSGame/bin/Debug/net8.0/RPSGame.pdb
+/Users/aaa/Desktop/Rock-Paper-Scissor/RPSGame/obj/Debug/net8.0/RPSGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaa/Desktop/Rock-Paper-Scissor/RPSGame/obj/Debug/net8.0/RPSGame.AssemblyInfoInputs.cache
+/Users/aaa/Desktop/Rock-Paper-Scissor/RPSGame/obj/Debug/net8.0/RPSGame.AssemblyInfo.cs
+/Users/aaa/Desktop/Rock-Paper-Scissor/RPSGame/obj/Debug/net8.0/RPSGame.csproj.CoreCompileInputs.cache
+/Users/aaa/Desktop/Rock-Paper-Scissor/RPSGame/obj/Debug/net8.0/RPSGame.dll
+/Users/aaa/Desktop/Rock-Paper-Scissor/RPSGame/obj/Debug/net8.0/refint/RPSGame.dll
+/Users/aaa/Desktop/Rock-Paper-Scissor/RPSGame/obj/Debug/net8.0/RPSGame.pdb
+/Users/aaa/Desktop/Rock-Paper-Scissor/RPSGame/obj/Debug/net8.0/RPSGame.genruntimeconfig.cache
+/Users/aaa/Desktop/Rock-Paper-Scissor/RPSGame/obj/Debug/net8.0/ref/RPSGame.dll
