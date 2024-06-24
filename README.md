@@ -9,9 +9,12 @@ This is a simple console application that simulates the classic game of Rock, Pa
 * Clear and user-friendly prompts and messages.
   
 ## Project Structure
-The project consists of the following main components:
 
+The project consists of the following main components :
 * Program.cs: Entry point of the application.
 * Player.cs: Represents a player with properties for name and score.
 * RPSGame.cs: Manages the game logic, including comparing moves and determining the winner of each round.
 * RPSGameTests: Unit tests using xUnit to verify the functionality of the game logic.
+
+
+
